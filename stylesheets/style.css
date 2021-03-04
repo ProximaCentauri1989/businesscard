@@ -108,6 +108,9 @@ h1 {
   left: 40px;
   font-size: 20px;
 }
+.contact-link {
+  bottom: 140px;
+}
 .contact-github {
   bottom: 120px;
 }
@@ -119,6 +122,9 @@ h1 {
 }
 .contact-info {
   left: 30px;
+}
+.fa-link {
+  color: #0b75df;
 }
 .fa-github {
   color: #24292e;
